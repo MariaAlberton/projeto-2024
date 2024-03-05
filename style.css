@@ -1,6 +1,9 @@
 header{
     background-color:firebrick
     color white;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
 }
 .imagem-cabecalho{
 width: 20%;
