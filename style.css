@@ -26,8 +26,8 @@ font-size: 24px;
     height: 313px;
 }
 .escola{
-    background-image: -o-linear-gradient();
-    color: aliceblue;
+    background-image: linear-gradient(#05b7fdfa,#065cfd);
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
